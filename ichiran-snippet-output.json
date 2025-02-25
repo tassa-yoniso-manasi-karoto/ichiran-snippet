@@ -2,1498 +2,1679 @@
   [
     [
       [
-        "toshokan",
-        {
-          "text": "図書館",
-          "kana": "としょかん",
-          "score": 952,
-          "type": "KANJI",
-          "start": 0,
-          "end": 3,
-          "seq": 1370420,
-          "gloss": {
-            "reading": "図書館 【としょかん】",
+        [
+          "toshokan",
+          {
+            "type": "KANJI",
             "text": "図書館",
+            "truetext": "図書館",
             "kana": "としょかん",
-            "score": 952,
             "seq": 1370420,
-            "gloss": [
+            "conjugations": [],
+            "score": 952,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 0,
+            "end": 3,
+            "counter": [],
+            "skipped": 0,
+            "gloss": {
+              "reading": "図書館 【としょかん】",
+              "text": "図書館",
+              "kana": "としょかん",
+              "score": 952,
+              "seq": 1370420,
+              "gloss": [
+                {
+                  "pos": "[n]",
+                  "gloss": "library"
+                }
+              ],
+              "conj": []
+            },
+            "match": [
               {
-                "pos": "[n]",
-                "gloss": "library"
+                "kanji": "図",
+                "reading": "と",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 6,
+                "total": 38,
+                "perc": "15.79%",
+                "grade": 2
+              },
+              {
+                "kanji": "書",
+                "reading": "しょ",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 109,
+                "total": 155,
+                "perc": "70.32%",
+                "grade": 2
+              },
+              {
+                "kanji": "館",
+                "reading": "かん",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 27,
+                "total": 27,
+                "perc": "100.00%",
+                "grade": 3
               }
-            ],
-            "conj": []
+            ]
           },
-          "match": [
-            {
-              "kanji": "図",
-              "reading": "と",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 6,
-              "total": 38,
-              "perc": "15.79%",
-              "grade": 2
-            },
-            {
-              "kanji": "書",
-              "reading": "しょ",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 109,
-              "total": 155,
-              "perc": "70.32%",
-              "grade": 2
-            },
-            {
-              "kanji": "館",
-              "reading": "かん",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 27,
-              "total": 27,
-              "perc": "100.00%",
-              "grade": 3
-            }
-          ]
-        },
-        []
-      ],
-      [
-        "de",
-        {
-          "text": "で",
-          "kana": "で",
-          "score": 11,
-          "type": "KANA",
-          "start": 3,
-          "end": 4,
-          "seq": 2028980,
-          "gloss": {
-            "reading": "で",
+          []
+        ],
+        [
+          "de",
+          {
+            "type": "KANA",
             "text": "で",
+            "truetext": "で",
             "kana": "で",
-            "score": 11,
             "seq": 2028980,
-            "gloss": [
-              {
-                "pos": "[prt]",
-                "gloss": "at; in",
-                "info": "indicates location of action; にて is the formal literary form"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "at; when",
-                "info": "indicates time of action"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "by; with",
-                "info": "indicates means of action"
-              },
-              {
-                "pos": "[conj]",
-                "gloss": "and then; so"
-              },
-              {
-                "pos": "[aux]",
-                "gloss": "and; then",
-                "info": "indicates continuing action; alternative form of 〜て used for some verb types"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "let me tell you; don't you know",
-                "info": "at sentence-end; indicates certainty, emphasis, etc."
-              }
-            ],
-            "conj": [
-              {
-                "prop": [
-                  {
-                    "pos": "cop",
-                    "type": "Conjunctive (~te)"
-                  }
-                ],
-                "reading": "だ",
-                "gloss": [
-                  {
-                    "pos": "[cop,cop-da]",
-                    "gloss": "be; is",
-                    "info": "plain copula"
-                  }
-                ],
-                "readok": true
-              }
-            ]
-          }
-        },
-        []
+            "conjugations": [],
+            "score": 16,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 3,
+            "end": 4,
+            "counter": [],
+            "skipped": 3,
+            "gloss": {
+              "reading": "で",
+              "text": "で",
+              "kana": "で",
+              "score": 16,
+              "seq": 2028980,
+              "gloss": [
+                {
+                  "pos": "[prt]",
+                  "gloss": "at; in",
+                  "info": "indicates location of action; にて is the formal literary form"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "at; when",
+                  "info": "indicates time of action"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "by; with",
+                  "info": "indicates means of action"
+                },
+                {
+                  "pos": "[conj]",
+                  "gloss": "and then; so"
+                },
+                {
+                  "pos": "[aux]",
+                  "gloss": "and; then",
+                  "info": "indicates continuing action; alternative form of 〜て used for some verb types"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "let me tell you; don't you know",
+                  "info": "at sentence-end; indicates certainty, emphasis, etc."
+                }
+              ],
+              "conj": [
+                {
+                  "prop": [
+                    {
+                      "pos": "cop",
+                      "type": "Conjunctive (~te)"
+                    }
+                  ],
+                  "reading": "だ",
+                  "gloss": [
+                    {
+                      "pos": "[cop,cop-da]",
+                      "gloss": "be; is",
+                      "info": "plain copula"
+                    }
+                  ],
+                  "readok": true
+                }
+              ]
+            }
+          },
+          []
+        ]
       ],
+      982
+    ]
+  ],
+  ", ",
+  [
+    [
       [
-        ", ",
-        {
-          "text": ", ",
-          "kana": ", ",
-          "score": 0,
-          "type": "GAP",
-          "start": 4,
-          "end": 6,
-          "gloss": {
-            "reading": ", ",
-            "text": ", ",
-            "kana": ", ",
-            "score": 0
-          }
-        },
-        []
-      ],
-      [
-        "watashi",
-        {
-          "text": "私",
-          "kana": "わたし",
-          "score": 25,
-          "type": "KANJI",
-          "start": 6,
-          "end": 7,
-          "seq": 1311110,
-          "gloss": {
-            "reading": "私 【わたし】",
+        [
+          "watashi",
+          {
+            "type": "KANJI",
             "text": "私",
+            "truetext": "私",
             "kana": "わたし",
-            "score": 25,
             "seq": 1311110,
-            "gloss": [
+            "conjugations": [],
+            "score": 25,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 0,
+            "end": 1,
+            "counter": [],
+            "skipped": 12,
+            "gloss": {
+              "reading": "私 【わたし】",
+              "text": "私",
+              "kana": "わたし",
+              "score": 25,
+              "seq": 1311110,
+              "gloss": [
+                {
+                  "pos": "[pn]",
+                  "gloss": "I; me",
+                  "info": "slightly formal or feminine"
+                }
+              ],
+              "conj": []
+            },
+            "match": [
               {
-                "pos": "[pn]",
-                "gloss": "I; me",
-                "info": "slightly formal or feminine"
+                "kanji": "私",
+                "reading": "わたし",
+                "type": "ja_kun",
+                "link": true,
+                "stats": true,
+                "sample": 4,
+                "total": 44,
+                "perc": "9.09%",
+                "grade": 6
               }
-            ],
-            "conj": []
+            ]
           },
-          "match": [
-            {
-              "kanji": "私",
-              "reading": "わたし",
-              "type": "ja_kun",
-              "link": true,
-              "stats": true,
-              "sample": 4,
-              "total": 44,
-              "perc": "9.09%",
-              "grade": 6
-            }
-          ]
-        },
-        []
-      ],
-      [
-        "wa",
-        {
-          "text": "は",
-          "kana": "‌は",
-          "score": 11,
-          "type": "KANA",
-          "start": 7,
-          "end": 8,
-          "seq": 2028920,
-          "gloss": {
-            "reading": "は",
+          []
+        ],
+        [
+          "wa",
+          {
+            "type": "KANA",
             "text": "は",
+            "truetext": "は",
             "kana": "‌は",
-            "score": 11,
             "seq": 2028920,
-            "gloss": [
-              {
-                "pos": "[prt]",
-                "gloss": "indicates sentence topic",
-                "info": "pronounced わ in modern Japanese"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "indicates contrast with another option (stated or unstated)"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "adds emphasis"
-              }
-            ],
-            "conj": []
-          }
-        },
-        []
-      ],
-      [
-        "semmonteki",
-        {
-          "text": "専門的",
-          "kana": "せんもんてき",
-          "score": 782,
-          "type": "KANJI",
-          "start": 8,
-          "end": 11,
-          "seq": 1389920,
-          "gloss": {
-            "reading": "専門的 【せんもんてき】",
+            "conjugations": [],
+            "score": 11,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 1,
+            "end": 2,
+            "counter": [],
+            "skipped": 10,
+            "gloss": {
+              "reading": "は",
+              "text": "は",
+              "kana": "‌は",
+              "score": 11,
+              "seq": 2028920,
+              "gloss": [
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates sentence topic",
+                  "info": "pronounced わ in modern Japanese"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates contrast with another option (stated or unstated)"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "adds emphasis"
+                }
+              ],
+              "conj": []
+            }
+          },
+          []
+        ],
+        [
+          "semmonteki",
+          {
+            "type": "KANJI",
             "text": "専門的",
+            "truetext": "専門的",
             "kana": "せんもんてき",
-            "score": 782,
             "seq": 1389920,
-            "gloss": [
+            "conjugations": [],
+            "score": 782,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 2,
+            "end": 5,
+            "counter": [],
+            "skipped": 0,
+            "gloss": {
+              "reading": "専門的 【せんもんてき】",
+              "text": "専門的",
+              "kana": "せんもんてき",
+              "score": 782,
+              "seq": 1389920,
+              "gloss": [
+                {
+                  "pos": "[adj-na]",
+                  "gloss": "technical (e.g. discussion); exclusive; professional"
+                }
+              ],
+              "conj": []
+            },
+            "match": [
               {
-                "pos": "[adj-na]",
-                "gloss": "technical (e.g. discussion); exclusive; professional"
+                "kanji": "専",
+                "reading": "せん",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 28,
+                "total": 29,
+                "perc": "96.55%",
+                "grade": 6
+              },
+              {
+                "kanji": "門",
+                "reading": "もん",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 45,
+                "total": 49,
+                "perc": "91.84%",
+                "grade": 2
+              },
+              {
+                "kanji": "的",
+                "reading": "てき",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 206,
+                "total": 209,
+                "perc": "98.56%",
+                "grade": 4
               }
-            ],
-            "conj": []
+            ]
           },
-          "match": [
-            {
-              "kanji": "専",
-              "reading": "せん",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 28,
-              "total": 29,
-              "perc": "96.55%",
-              "grade": 6
-            },
-            {
-              "kanji": "門",
-              "reading": "もん",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 45,
-              "total": 49,
-              "perc": "91.84%",
-              "grade": 2
-            },
-            {
-              "kanji": "的",
-              "reading": "てき",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 206,
-              "total": 209,
-              "perc": "98.56%",
-              "grade": 4
-            }
-          ]
-        },
-        []
-      ],
-      [
-        "na",
-        {
-          "text": "な",
-          "kana": "な",
-          "score": 6,
-          "type": "KANA",
-          "start": 11,
-          "end": 12,
-          "seq": 2029110,
-          "gloss": {
-            "reading": "な",
+          []
+        ],
+        [
+          "na",
+          {
+            "type": "KANA",
             "text": "な",
+            "truetext": "な",
             "kana": "な",
-            "score": 6,
             "seq": 2029110,
-            "gloss": [
-              {
-                "pos": "[prt]",
-                "gloss": "don't",
-                "info": "prohibitive; used with dictionary form verb"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "do",
-                "info": "imperative (from なさい); used with -masu stem of verb"
-              },
-              {
-                "pos": "[int]",
-                "gloss": "hey; listen; look; say",
-                "info": "used to get someone's attention or press one's point"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "now, ...; well, ...; I tell you!; you know",
-                "info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "wow; ooh",
-                "info": "used to express admiration, emotionality, etc.; used at sentence end"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
-                "info": "used as a request for confirmation or agreement; used at sentence end"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "indicates な-adjective"
-              }
-            ],
-            "conj": []
-          }
-        },
-        []
-      ],
-      [
-        "rekishi",
-        {
-          "text": "歴史",
-          "kana": "れきし",
-          "score": 325,
-          "type": "KANJI",
-          "start": 12,
-          "end": 14,
-          "seq": 1558050,
-          "gloss": {
-            "reading": "歴史 【れきし】",
+            "conjugations": [],
+            "score": 6,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 5,
+            "end": 6,
+            "counter": [],
+            "skipped": 7,
+            "gloss": {
+              "reading": "な",
+              "text": "な",
+              "kana": "な",
+              "score": 6,
+              "seq": 2029110,
+              "gloss": [
+                {
+                  "pos": "[prt]",
+                  "gloss": "don't",
+                  "info": "prohibitive; used with dictionary form verb"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "do",
+                  "info": "imperative (from なさい); used with -masu stem of verb"
+                },
+                {
+                  "pos": "[int]",
+                  "gloss": "hey; listen; look; say",
+                  "info": "used to get someone's attention or press one's point"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "now, ...; well, ...; I tell you!; you know",
+                  "info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "wow; ooh",
+                  "info": "used to express admiration, emotionality, etc.; used at sentence end"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+                  "info": "used as a request for confirmation or agreement; used at sentence end"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates な-adjective"
+                }
+              ],
+              "conj": []
+            }
+          },
+          []
+        ],
+        [
+          "rekishi",
+          {
+            "type": "KANJI",
             "text": "歴史",
+            "truetext": "歴史",
             "kana": "れきし",
-            "score": 325,
             "seq": 1558050,
-            "gloss": [
-              {
-                "pos": "[n]",
-                "gloss": "history"
-              }
-            ],
-            "conj": []
-          },
-          "match": [
-            {
-              "kanji": "歴",
-              "reading": "れき",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 19,
-              "total": 19,
-              "perc": "100.00%",
-              "grade": 4
+            "conjugations": [],
+            "score": 325,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 6,
+            "end": 8,
+            "counter": [],
+            "skipped": 0,
+            "gloss": {
+              "reading": "歴史 【れきし】",
+              "text": "歴史",
+              "kana": "れきし",
+              "score": 325,
+              "seq": 1558050,
+              "gloss": [
+                {
+                  "pos": "[n]",
+                  "gloss": "history"
+                }
+              ],
+              "conj": []
             },
-            {
-              "kanji": "史",
-              "reading": "し",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 21,
-              "total": 21,
-              "perc": "100.00%",
-              "grade": 4
-            }
-          ]
-        },
-        []
-      ],
-      [
-        "bunken",
-        {
-          "text": "文献",
-          "kana": "ぶんけん",
-          "score": 208,
-          "type": "KANJI",
-          "start": 14,
-          "end": 16,
-          "seq": 1505330,
-          "gloss": {
-            "reading": "文献 【ぶんけん】",
-            "text": "文献",
-            "kana": "ぶんけん",
-            "score": 208,
-            "seq": 1505330,
-            "gloss": [
+            "match": [
               {
-                "pos": "[n]",
-                "gloss": "literature; books (reference); document"
-              }
-            ],
-            "conj": []
-          },
-          "match": [
-            {
-              "kanji": "文",
-              "reading": "ぶん",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 104,
-              "total": 139,
-              "perc": "74.82%",
-              "grade": 1
-            },
-            {
-              "kanji": "献",
-              "reading": "けん",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 9,
-              "total": 10,
-              "perc": "90.00%",
-              "grade": 8
-            }
-          ]
-        },
-        []
-      ],
-      [
-        "wo",
-        {
-          "text": "を",
-          "kana": "を",
-          "score": 11,
-          "type": "KANA",
-          "start": 16,
-          "end": 17,
-          "seq": 2029010,
-          "gloss": {
-            "reading": "を",
-            "text": "を",
-            "kana": "を",
-            "score": 11,
-            "seq": 2029010,
-            "gloss": [
-              {
-                "pos": "[prt]",
-                "gloss": "indicates direct object of action"
+                "kanji": "歴",
+                "reading": "れき",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 19,
+                "total": 19,
+                "perc": "100.00%",
+                "grade": 4
               },
               {
-                "pos": "[prt]",
-                "gloss": "indicates subject of causative expression"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "indicates an area traversed"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "indicates time (period) over which action takes place"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "indicates point of departure or separation of action"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "indicates object of desire, like, hate, etc."
-              }
-            ],
-            "conj": []
-          }
-        },
-        []
-      ],
-      [
-        "shōsai",
-        {
-          "text": "詳細",
-          "kana": "しょうさい",
-          "score": 221,
-          "type": "KANJI",
-          "start": 17,
-          "end": 19,
-          "seq": 1351760,
-          "gloss": {
-            "reading": "詳細 【しょうさい】",
-            "text": "詳細",
-            "kana": "しょうさい",
-            "score": 221,
-            "seq": 1351760,
-            "gloss": [
-              {
-                "pos": "[n]",
-                "gloss": "details; particulars; specifics"
-              },
-              {
-                "pos": "[adj-na]",
-                "gloss": "detailed; specific; minute"
-              },
-              {
-                "pos": "[n]",
-                "gloss": "close-up view (of a digitally displayed map); zoomed-in view"
-              }
-            ],
-            "conj": []
-          },
-          "match": [
-            {
-              "kanji": "詳",
-              "reading": "しょう",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 4,
-              "total": 5,
-              "perc": "80.00%",
-              "grade": 8
-            },
-            {
-              "kanji": "細",
-              "reading": "さい",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 24,
-              "total": 43,
-              "perc": "55.81%",
-              "grade": 2
-            }
-          ]
-        },
-        []
-      ],
-      [
-        "ni",
-        {
-          "text": "に",
-          "kana": "に",
-          "score": 11,
-          "type": "KANA",
-          "start": 19,
-          "end": 20,
-          "seq": 2028990,
-          "gloss": {
-            "reading": "に",
-            "text": "に",
-            "kana": "に",
-            "score": 11,
-            "seq": 2028990,
-            "gloss": [
-              {
-                "pos": "[prt]",
-                "gloss": "at (place, time); in; on; during"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "to (direction, state); toward; into"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "for (purpose)"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "because of (reason); for; with"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "by; from"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "as (i.e. in the role of)"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "per; in; for; a (e.g. \"once a month\")"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "and; in addition to"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "if; although"
-              }
-            ],
-            "conj": []
-          }
-        },
-        []
-      ],
-      [
-        "bunseki shi",
-        {
-          "text": "分析し",
-          "kana": "ぶんせき し",
-          "score": 506,
-          "type": "KANJI",
-          "start": 20,
-          "end": 23,
-          "seq": [
-            1503870,
-            10149633
-          ],
-          "gloss": {
-            "reading": "分析し 【ぶんせき し】",
-            "text": "分析し",
-            "kana": "ぶんせき し",
-            "score": 506,
-            "compound": [
-              "分析",
-              "し"
-            ],
-            "components": [
-              {
-                "reading": "分析 【ぶんせき】",
-                "text": "分析",
-                "kana": "ぶんせき",
-                "score": 0,
-                "seq": 1503870,
-                "gloss": [
-                  {
-                    "pos": "[vt,vs,n]",
-                    "gloss": "analysis"
-                  }
-                ],
-                "conj": []
-              },
-              {
+                "kanji": "史",
                 "reading": "し",
-                "text": "し",
-                "kana": "し",
-                "score": 0,
-                "seq": 10149633,
-                "suffix": "makes a verb from a noun",
-                "conj": [
-                  {
-                    "prop": [
-                      {
-                        "pos": "vs-i",
-                        "type": "Continuative (~i)"
-                      }
-                    ],
-                    "reading": "為る 【する】",
-                    "gloss": [
-                      {
-                        "pos": "[vs-i]",
-                        "gloss": "to do; to carry out; to perform"
-                      },
-                      {
-                        "pos": "[vs-i]",
-                        "gloss": "to cause to become; to make (into); to turn (into)"
-                      },
-                      {
-                        "pos": "[vs-i]",
-                        "gloss": "to serve as; to act as; to work as"
-                      },
-                      {
-                        "pos": "[vs-i]",
-                        "gloss": "to wear (clothes, a facial expression, etc.)"
-                      },
-                      {
-                        "pos": "[vs-i]",
-                        "gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
-                        "info": "as 〜にする,〜とする"
-                      },
-                      {
-                        "pos": "[vs-i]",
-                        "gloss": "to decide on; to choose",
-                        "info": "as 〜にする"
-                      },
-                      {
-                        "pos": "[vs-i,vi]",
-                        "gloss": "to be sensed (of a smell, noise, etc.)",
-                        "info": "as 〜がする"
-                      },
-                      {
-                        "pos": "[vs-i,vi]",
-                        "gloss": "to be (in a state, condition, etc.)"
-                      },
-                      {
-                        "pos": "[vs-i,vi]",
-                        "gloss": "to be worth; to cost"
-                      },
-                      {
-                        "pos": "[vs-i,vi]",
-                        "gloss": "to pass (of time); to elapse"
-                      },
-                      {
-                        "pos": "[vs-i,vt]",
-                        "gloss": "to place, or raise, person A to a post or status B",
-                        "info": "as AをBにする"
-                      },
-                      {
-                        "pos": "[vs-i,vt]",
-                        "gloss": "to transform A to B; to make A into B; to exchange A for B",
-                        "info": "as AをBにする"
-                      },
-                      {
-                        "pos": "[vs-i,vt]",
-                        "gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
-                        "info": "as AをBにする"
-                      },
-                      {
-                        "pos": "[vs-i,vt]",
-                        "gloss": "to feel A about B",
-                        "info": "as AをBにする"
-                      },
-                      {
-                        "pos": "[suf,vs-i]",
-                        "gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
-                      },
-                      {
-                        "pos": "[aux-v,vs-i]",
-                        "gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
-                      },
-                      {
-                        "pos": "[aux-v,vs-i]",
-                        "gloss": "to be just about to; to be just starting to; to try to; to attempt to",
-                        "info": "as 〜うとする,〜ようとする"
-                      }
-                    ],
-                    "readok": true
-                  }
-                ]
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 21,
+                "total": 21,
+                "perc": "100.00%",
+                "grade": 4
               }
             ]
           },
-          "compound": [
-            "分析",
-            "し"
-          ],
-          "match": [
-            {
-              "kanji": "分",
-              "reading": "ぶん",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 120,
-              "total": 170,
-              "perc": "70.59%",
-              "grade": 2
-            },
-            {
-              "kanji": "析",
-              "reading": "せき ",
-              "type": "irr",
-              "link": true
-            },
-            {
-              "text": "し"
-            }
-          ]
-        },
-        []
-      ],
-      [
-        ", ",
-        {
-          "text": ", ",
-          "kana": ", ",
-          "score": 0,
-          "type": "GAP",
-          "start": 23,
-          "end": 25,
-          "gloss": {
-            "reading": ", ",
-            "text": ", ",
-            "kana": ", ",
-            "score": 0
-          }
-        },
-        []
-      ],
-      [
-        "fukuzatsu",
-        {
-          "text": "複雑",
-          "kana": "ふくざつ",
-          "score": 299,
-          "type": "KANJI",
-          "start": 25,
-          "end": 27,
-          "seq": 1501350,
-          "gloss": {
-            "reading": "複雑 【ふくざつ】",
-            "text": "複雑",
-            "kana": "ふくざつ",
-            "score": 299,
-            "seq": 1501350,
-            "gloss": [
-              {
-                "pos": "[n,adj-na]",
-                "gloss": "complex; complicated; intricate; mixed (feelings)"
-              }
-            ],
-            "conj": []
-          },
-          "match": [
-            {
-              "kanji": "複",
-              "reading": "ふく",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 14,
-              "total": 14,
-              "perc": "100.00%",
-              "grade": 5
-            },
-            {
-              "kanji": "雑",
-              "reading": "ざつ",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 25,
-              "total": 30,
-              "perc": "83.33%",
-              "grade": 5
-            }
-          ]
-        },
-        []
-      ],
-      [
-        "na",
-        {
-          "text": "な",
-          "kana": "な",
-          "score": 6,
-          "type": "KANA",
-          "start": 27,
-          "end": 28,
-          "seq": 2029110,
-          "gloss": {
-            "reading": "な",
-            "text": "な",
-            "kana": "な",
-            "score": 6,
-            "seq": 2029110,
-            "gloss": [
-              {
-                "pos": "[prt]",
-                "gloss": "don't",
-                "info": "prohibitive; used with dictionary form verb"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "do",
-                "info": "imperative (from なさい); used with -masu stem of verb"
-              },
-              {
-                "pos": "[int]",
-                "gloss": "hey; listen; look; say",
-                "info": "used to get someone's attention or press one's point"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "now, ...; well, ...; I tell you!; you know",
-                "info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "wow; ooh",
-                "info": "used to express admiration, emotionality, etc.; used at sentence end"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
-                "info": "used as a request for confirmation or agreement; used at sentence end"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "indicates な-adjective"
-              }
-            ],
-            "conj": []
-          }
-        },
-        []
-      ],
-      [
-        "kokusaikankei",
-        {
-          "text": "国際関係",
-          "kana": "こくさいかんけい",
-          "score": 715,
-          "type": "KANJI",
-          "start": 28,
-          "end": 32,
-          "seq": 1286430,
-          "gloss": {
-            "reading": "国際関係 【こくさいかんけい】",
-            "text": "国際関係",
-            "kana": "こくさいかんけい",
-            "score": 715,
-            "seq": 1286430,
-            "gloss": [
-              {
-                "pos": "[n]",
-                "gloss": "international relations"
-              }
-            ],
-            "conj": []
-          },
-          "match": [
-            {
-              "kanji": "国",
-              "reading": "こく",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 196,
-              "total": 207,
-              "perc": "94.69%",
-              "grade": 2
-            },
-            {
-              "kanji": "際",
-              "reading": "さい",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 21,
-              "total": 33,
-              "perc": "63.64%",
-              "grade": 5
-            },
-            {
-              "kanji": "関",
-              "reading": "かん",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 45,
-              "total": 51,
-              "perc": "88.24%",
-              "grade": 4
-            },
-            {
-              "kanji": "係",
-              "reading": "けい",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 12,
-              "total": 17,
-              "perc": "70.59%",
-              "grade": 3
-            }
-          ]
-        },
-        []
-      ],
-      [
-        "no",
-        {
-          "text": "の",
-          "kana": "の",
-          "score": 11,
-          "type": "KANA",
-          "start": 32,
-          "end": 33,
-          "seq": 1469800,
-          "gloss": {
-            "reading": "の",
-            "text": "の",
-            "kana": "の",
-            "score": 11,
-            "seq": 1469800,
-            "gloss": [
-              {
-                "pos": "[prt]",
-                "gloss": "indicates possessive",
-                "info": "occasionally ん, orig. written 乃 or 之"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "nominalizes verbs and adjectives"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "substitutes for \"ga\" in subordinate phrases"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
-                "info": "often ん"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "(at sentence-end) indicates emotional emphasis"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "(at sentence-end, rising tone) indicates question"
-              }
-            ],
-            "conj": []
-          }
-        },
-        []
-      ],
-      [
-        "hensen",
-        {
-          "text": "変遷",
-          "kana": "へんせん",
-          "score": 208,
-          "type": "KANJI",
-          "start": 33,
-          "end": 35,
-          "seq": 1511260,
-          "gloss": {
-            "reading": "変遷 【へんせん】",
-            "text": "変遷",
-            "kana": "へんせん",
+          []
+        ],
+        [
+          "bunken",
+          {
+            "type": "KANJI",
+            "text": "文献",
+            "truetext": "文献",
+            "kana": "ぶんけん",
+            "seq": 1505330,
+            "conjugations": [],
             "score": 208,
-            "seq": 1511260,
-            "gloss": [
-              {
-                "pos": "[vi,vs,n]",
-                "gloss": "change; transition; vicissitudes"
-              }
-            ],
-            "conj": []
-          },
-          "match": [
-            {
-              "kanji": "変",
-              "reading": "へん",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 51,
-              "total": 69,
-              "perc": "73.91%",
-              "grade": 4
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 8,
+            "end": 10,
+            "counter": [],
+            "skipped": 0,
+            "gloss": {
+              "reading": "文献 【ぶんけん】",
+              "text": "文献",
+              "kana": "ぶんけん",
+              "score": 208,
+              "seq": 1505330,
+              "gloss": [
+                {
+                  "pos": "[n]",
+                  "gloss": "literature; books (reference); document"
+                }
+              ],
+              "conj": []
             },
-            {
-              "kanji": "遷",
-              "reading": "せん",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 4,
-              "total": 4,
-              "perc": "100.00%",
-              "grade": 8
-            }
-          ]
-        },
-        []
-      ],
-      [
-        "wo",
-        {
-          "text": "を",
-          "kana": "を",
-          "score": 11,
-          "type": "KANA",
-          "start": 35,
-          "end": 36,
-          "seq": 2029010,
-          "gloss": {
-            "reading": "を",
-            "text": "を",
-            "kana": "を",
-            "score": 11,
-            "seq": 2029010,
-            "gloss": [
+            "match": [
               {
-                "pos": "[prt]",
-                "gloss": "indicates direct object of action"
+                "kanji": "文",
+                "reading": "ぶん",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 104,
+                "total": 139,
+                "perc": "74.82%",
+                "grade": 1
               },
               {
-                "pos": "[prt]",
-                "gloss": "indicates subject of causative expression"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "indicates an area traversed"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "indicates time (period) over which action takes place"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "indicates point of departure or separation of action"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "indicates object of desire, like, hate, etc."
-              }
-            ],
-            "conj": []
-          }
-        },
-        []
-      ],
-      [
-        "fukaku",
-        {
-          "text": "深く",
-          "kana": "ふかく",
-          "score": 128,
-          "type": "KANJI",
-          "start": 36,
-          "end": 38,
-          "seq": 2843268,
-          "gloss": {
-            "reading": "深く 【ふかく】",
-            "text": "深く",
-            "kana": "ふかく",
-            "score": 128,
-            "seq": 2843268,
-            "gloss": [
-              {
-                "pos": "[adv]",
-                "gloss": "deeply; intimately; heartily; sincerely; profoundly"
-              }
-            ],
-            "conj": [
-              {
-                "prop": [
-                  {
-                    "pos": "adj-i",
-                    "type": "Adverbial"
-                  }
-                ],
-                "reading": "深い 【ふかい】",
-                "gloss": [
-                  {
-                    "pos": "[adj-i]",
-                    "gloss": "deep"
-                  },
-                  {
-                    "pos": "[adj-i]",
-                    "gloss": "profound"
-                  },
-                  {
-                    "pos": "[adj-i]",
-                    "gloss": "dense; thick"
-                  },
-                  {
-                    "pos": "[adj-i]",
-                    "gloss": "close (relationship)"
-                  },
-                  {
-                    "pos": "[adj-i]",
-                    "gloss": "intense; strong"
-                  },
-                  {
-                    "pos": "[adj-i]",
-                    "gloss": "late"
-                  }
-                ],
-                "readok": true
+                "kanji": "献",
+                "reading": "けん",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 9,
+                "total": 10,
+                "perc": "90.00%",
+                "grade": 8
               }
             ]
           },
-          "match": [
-            {
-              "kanji": "深",
-              "reading": "ふか",
-              "type": "ja_kun",
-              "link": true,
-              "stats": true,
-              "sample": 9,
-              "total": 30,
-              "perc": "30.00%",
-              "grade": 3
-            },
-            {
-              "text": "く"
+          []
+        ],
+        [
+          "wo",
+          {
+            "type": "KANA",
+            "text": "を",
+            "truetext": "を",
+            "kana": "を",
+            "seq": 2029010,
+            "conjugations": [],
+            "score": 11,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 10,
+            "end": 11,
+            "counter": [],
+            "skipped": 0,
+            "gloss": {
+              "reading": "を",
+              "text": "を",
+              "kana": "を",
+              "score": 11,
+              "seq": 2029010,
+              "gloss": [
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates direct object of action"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates subject of causative expression"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates an area traversed"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates time (period) over which action takes place"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates point of departure or separation of action"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates object of desire, like, hate, etc."
+                }
+              ],
+              "conj": []
             }
-          ]
-        },
-        []
-      ],
-      [
-        "rikai shiyō",
-        {
-          "text": "理解しよう",
-          "kana": "りかい しよう",
-          "score": 1056,
-          "type": "KANJI",
-          "start": 38,
-          "end": 43,
-          "seq": [
-            1549910,
-            10149617
-          ],
-          "gloss": {
-            "reading": "理解しよう 【りかい しよう】",
-            "text": "理解しよう",
-            "kana": "りかい しよう",
-            "score": 1056,
-            "compound": [
-              "理解",
-              "しよう"
+          },
+          []
+        ],
+        [
+          "shōsai",
+          {
+            "type": "KANJI",
+            "text": "詳細",
+            "truetext": "詳細",
+            "kana": "しょうさい",
+            "seq": 1351760,
+            "conjugations": [],
+            "score": 221,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 11,
+            "end": 13,
+            "counter": [],
+            "skipped": 0,
+            "gloss": {
+              "reading": "詳細 【しょうさい】",
+              "text": "詳細",
+              "kana": "しょうさい",
+              "score": 221,
+              "seq": 1351760,
+              "gloss": [
+                {
+                  "pos": "[n]",
+                  "gloss": "details; particulars; specifics"
+                },
+                {
+                  "pos": "[adj-na]",
+                  "gloss": "detailed; specific; minute"
+                },
+                {
+                  "pos": "[n]",
+                  "gloss": "close-up view (of a digitally displayed map); zoomed-in view"
+                }
+              ],
+              "conj": []
+            },
+            "match": [
+              {
+                "kanji": "詳",
+                "reading": "しょう",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 4,
+                "total": 5,
+                "perc": "80.00%",
+                "grade": 8
+              },
+              {
+                "kanji": "細",
+                "reading": "さい",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 24,
+                "total": 43,
+                "perc": "55.81%",
+                "grade": 2
+              }
+            ]
+          },
+          []
+        ],
+        [
+          "ni",
+          {
+            "type": "KANA",
+            "text": "に",
+            "truetext": "に",
+            "kana": "に",
+            "seq": 2028990,
+            "conjugations": [],
+            "score": 11,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 13,
+            "end": 14,
+            "counter": [],
+            "skipped": 8,
+            "gloss": {
+              "reading": "に",
+              "text": "に",
+              "kana": "に",
+              "score": 11,
+              "seq": 2028990,
+              "gloss": [
+                {
+                  "pos": "[prt]",
+                  "gloss": "at (place, time); in; on; during"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "to (direction, state); toward; into"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "for (purpose)"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "because of (reason); for; with"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "by; from"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "as (i.e. in the role of)"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "per; in; for; a (e.g. \"once a month\")"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "and; in addition to"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "if; although"
+                }
+              ],
+              "conj": []
+            }
+          },
+          []
+        ],
+        [
+          "bunseki shi",
+          {
+            "type": "KANJI",
+            "text": "分析し",
+            "truetext": [],
+            "kana": "ぶんせき し",
+            "seq": [
+              1503870,
+              10149633
             ],
+            "conjugations": [],
+            "score": 506,
             "components": [
               {
-                "reading": "理解 【りかい】",
-                "text": "理解",
-                "kana": "りかい",
+                "type": "KANJI",
+                "text": "分析",
+                "truetext": "分析",
+                "kana": "ぶんせき",
+                "seq": 1503870,
+                "conjugations": [],
                 "score": 0,
-                "seq": 1549910,
-                "gloss": [
-                  {
-                    "pos": "[n,vs,vt]",
-                    "gloss": "understanding; comprehension; appreciation"
-                  },
-                  {
-                    "pos": "[vt,vs,n]",
-                    "gloss": "sympathy"
-                  }
+                "components": [],
+                "alternative": [],
+                "primary": true,
+                "start": [],
+                "end": [],
+                "counter": [],
+                "skipped": 0
+              },
+              {
+                "type": "KANA",
+                "text": "し",
+                "truetext": "し",
+                "kana": "し",
+                "seq": 10149633,
+                "conjugations": [
+                  150555
                 ],
-                "conj": []
-              },
-              {
-                "reading": "しよう",
-                "text": "しよう",
-                "kana": "しよう",
                 "score": 0,
-                "seq": 10149617,
-                "suffix": "makes a verb from a noun",
-                "conj": [
-                  {
-                    "prop": [
-                      {
-                        "pos": "vs-i",
-                        "type": "Volitional"
-                      }
-                    ],
-                    "reading": "為る 【する】",
-                    "gloss": [
-                      {
-                        "pos": "[vs-i]",
-                        "gloss": "to do; to carry out; to perform"
-                      },
-                      {
-                        "pos": "[vs-i]",
-                        "gloss": "to cause to become; to make (into); to turn (into)"
-                      },
-                      {
-                        "pos": "[vs-i]",
-                        "gloss": "to serve as; to act as; to work as"
-                      },
-                      {
-                        "pos": "[vs-i]",
-                        "gloss": "to wear (clothes, a facial expression, etc.)"
-                      },
-                      {
-                        "pos": "[vs-i]",
-                        "gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
-                        "info": "as 〜にする,〜とする"
-                      },
-                      {
-                        "pos": "[vs-i]",
-                        "gloss": "to decide on; to choose",
-                        "info": "as 〜にする"
-                      },
-                      {
-                        "pos": "[vs-i,vi]",
-                        "gloss": "to be sensed (of a smell, noise, etc.)",
-                        "info": "as 〜がする"
-                      },
-                      {
-                        "pos": "[vs-i,vi]",
-                        "gloss": "to be (in a state, condition, etc.)"
-                      },
-                      {
-                        "pos": "[vs-i,vi]",
-                        "gloss": "to be worth; to cost"
-                      },
-                      {
-                        "pos": "[vs-i,vi]",
-                        "gloss": "to pass (of time); to elapse"
-                      },
-                      {
-                        "pos": "[vs-i,vt]",
-                        "gloss": "to place, or raise, person A to a post or status B",
-                        "info": "as AをBにする"
-                      },
-                      {
-                        "pos": "[vs-i,vt]",
-                        "gloss": "to transform A to B; to make A into B; to exchange A for B",
-                        "info": "as AをBにする"
-                      },
-                      {
-                        "pos": "[vs-i,vt]",
-                        "gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
-                        "info": "as AをBにする"
-                      },
-                      {
-                        "pos": "[vs-i,vt]",
-                        "gloss": "to feel A about B",
-                        "info": "as AをBにする"
-                      },
-                      {
-                        "pos": "[suf,vs-i]",
-                        "gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
-                      },
-                      {
-                        "pos": "[aux-v,vs-i]",
-                        "gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
-                      },
-                      {
-                        "pos": "[aux-v,vs-i]",
-                        "gloss": "to be just about to; to be just starting to; to try to; to attempt to",
-                        "info": "as 〜うとする,〜ようとする"
-                      }
-                    ],
-                    "readok": true
-                  }
-                ]
-              }
-            ]
-          },
-          "compound": [
-            "理解",
-            "しよう"
-          ],
-          "match": [
-            {
-              "kanji": "理",
-              "reading": "り",
-              "type": "ja_on",
-              "link": true,
-              "stats": true,
-              "sample": 116,
-              "total": 116,
-              "perc": "100.00%",
-              "grade": 2
-            },
-            {
-              "kanji": "解",
-              "reading": "かい ",
-              "type": "irr",
-              "link": true
-            },
-            {
-              "text": "しよう"
-            }
-          ]
-        },
-        []
-      ],
-      [
-        "to",
-        {
-          "text": "と",
-          "kana": "と",
-          "score": 11,
-          "type": "KANA",
-          "start": 43,
-          "end": 44,
-          "seq": 1008490,
-          "gloss": {
-            "reading": "と",
-            "text": "と",
-            "kana": "と",
-            "score": 11,
-            "seq": 1008490,
-            "gloss": [
-              {
-                "pos": "[prt,conj]",
-                "gloss": "if; when"
-              },
-              {
-                "pos": "[prt,conj]",
-                "gloss": "and"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "with"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "used for quoting (thoughts, speech, etc.)"
-              },
-              {
-                "pos": "[prt]",
-                "gloss": "indicates a question",
-                "info": "at sentence end"
+                "components": [],
+                "alternative": [],
+                "primary": [],
+                "start": [],
+                "end": [],
+                "counter": [],
+                "skipped": 0
               }
             ],
-            "conj": []
-          }
-        },
-        []
-      ],
-      [
-        "kokoromimashita",
-        {
-          "text": "試みました",
-          "kana": "こころみました",
-          "score": 1380,
-          "type": "KANJI",
-          "start": 44,
-          "end": 49,
-          "seq": 10377490,
-          "gloss": {
-            "reading": "試みました 【こころみました】",
-            "text": "試みました",
-            "kana": "こころみました",
-            "score": 1380,
-            "seq": 10377490,
-            "conj": [
+            "alternative": [],
+            "primary": true,
+            "start": 14,
+            "end": 17,
+            "counter": [],
+            "skipped": 0,
+            "gloss": {
+              "reading": "分析し 【ぶんせき し】",
+              "text": "分析し",
+              "kana": "ぶんせき し",
+              "score": 506,
+              "compound": [
+                "分析",
+                "し"
+              ],
+              "components": [
+                {
+                  "reading": "分析 【ぶんせき】",
+                  "text": "分析",
+                  "kana": "ぶんせき",
+                  "score": 0,
+                  "seq": 1503870,
+                  "gloss": [
+                    {
+                      "pos": "[vt,vs,n]",
+                      "gloss": "analysis"
+                    }
+                  ],
+                  "conj": []
+                },
+                {
+                  "reading": "し",
+                  "text": "し",
+                  "kana": "し",
+                  "score": 0,
+                  "seq": 10149633,
+                  "suffix": "makes a verb from a noun",
+                  "conj": [
+                    {
+                      "prop": [
+                        {
+                          "pos": "vs-i",
+                          "type": "Continuative (~i)"
+                        }
+                      ],
+                      "reading": "為る 【する】",
+                      "gloss": [
+                        {
+                          "pos": "[vs-i]",
+                          "gloss": "to do; to carry out; to perform"
+                        },
+                        {
+                          "pos": "[vs-i]",
+                          "gloss": "to cause to become; to make (into); to turn (into)"
+                        },
+                        {
+                          "pos": "[vs-i]",
+                          "gloss": "to serve as; to act as; to work as"
+                        },
+                        {
+                          "pos": "[vs-i]",
+                          "gloss": "to wear (clothes, a facial expression, etc.)"
+                        },
+                        {
+                          "pos": "[vs-i]",
+                          "gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+                          "info": "as 〜にする,〜とする"
+                        },
+                        {
+                          "pos": "[vs-i]",
+                          "gloss": "to decide on; to choose",
+                          "info": "as 〜にする"
+                        },
+                        {
+                          "pos": "[vs-i,vi]",
+                          "gloss": "to be sensed (of a smell, noise, etc.)",
+                          "info": "as 〜がする"
+                        },
+                        {
+                          "pos": "[vs-i,vi]",
+                          "gloss": "to be (in a state, condition, etc.)"
+                        },
+                        {
+                          "pos": "[vs-i,vi]",
+                          "gloss": "to be worth; to cost"
+                        },
+                        {
+                          "pos": "[vs-i,vi]",
+                          "gloss": "to pass (of time); to elapse"
+                        },
+                        {
+                          "pos": "[vs-i,vt]",
+                          "gloss": "to place, or raise, person A to a post or status B",
+                          "info": "as AをBにする"
+                        },
+                        {
+                          "pos": "[vs-i,vt]",
+                          "gloss": "to transform A to B; to make A into B; to exchange A for B",
+                          "info": "as AをBにする"
+                        },
+                        {
+                          "pos": "[vs-i,vt]",
+                          "gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+                          "info": "as AをBにする"
+                        },
+                        {
+                          "pos": "[vs-i,vt]",
+                          "gloss": "to feel A about B",
+                          "info": "as AをBにする"
+                        },
+                        {
+                          "pos": "[suf,vs-i]",
+                          "gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+                        },
+                        {
+                          "pos": "[aux-v,vs-i]",
+                          "gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+                        },
+                        {
+                          "pos": "[aux-v,vs-i]",
+                          "gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+                          "info": "as 〜うとする,〜ようとする"
+                        }
+                      ],
+                      "readok": true
+                    }
+                  ]
+                }
+              ]
+            },
+            "match": [
               {
-                "prop": [
-                  {
-                    "pos": "v1",
-                    "type": "Past (~ta)",
-                    "fml": true
-                  }
-                ],
-                "reading": "試みる 【こころみる】",
-                "gloss": [
-                  {
-                    "pos": "[vt,v1]",
-                    "gloss": "to try; to attempt; to have a go (at)"
-                  }
-                ],
-                "readok": true
+                "kanji": "分",
+                "reading": "ぶん",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 120,
+                "total": 170,
+                "perc": "70.59%",
+                "grade": 2
+              },
+              {
+                "kanji": "析",
+                "reading": "せき ",
+                "type": "irr",
+                "link": true
+              },
+              {
+                "text": "し"
               }
             ]
           },
-          "match": [
-            {
-              "kanji": "試",
-              "reading": "こころ",
-              "type": "ja_kun",
-              "link": true,
-              "stats": true,
-              "sample": 2,
-              "total": 41,
-              "perc": "4.88%",
-              "grade": 4
-            },
-            {
-              "text": "みました"
-            }
-          ]
-        },
-        []
+          []
+        ]
       ],
+      2159
+    ]
+  ],
+  ", ",
+  [
+    [
       [
-        ". ",
-        {
-          "text": ". ",
-          "kana": ". ",
-          "score": 0,
-          "type": "GAP",
-          "start": 49,
-          "end": 51,
-          "gloss": {
-            "reading": ". ",
-            "text": ". ",
-            "kana": ". ",
-            "score": 0
-          }
-        },
-        []
-      ]
-    ],
-    4013
-  ]
+        [
+          "fukuzatsu",
+          {
+            "type": "KANJI",
+            "text": "複雑",
+            "truetext": "複雑",
+            "kana": "ふくざつ",
+            "seq": 1501350,
+            "conjugations": [],
+            "score": 299,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 0,
+            "end": 2,
+            "counter": [],
+            "skipped": 0,
+            "gloss": {
+              "reading": "複雑 【ふくざつ】",
+              "text": "複雑",
+              "kana": "ふくざつ",
+              "score": 299,
+              "seq": 1501350,
+              "gloss": [
+                {
+                  "pos": "[n,adj-na]",
+                  "gloss": "complex; complicated; intricate; mixed (feelings)"
+                }
+              ],
+              "conj": []
+            },
+            "match": [
+              {
+                "kanji": "複",
+                "reading": "ふく",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 14,
+                "total": 14,
+                "perc": "100.00%",
+                "grade": 5
+              },
+              {
+                "kanji": "雑",
+                "reading": "ざつ",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 25,
+                "total": 30,
+                "perc": "83.33%",
+                "grade": 5
+              }
+            ]
+          },
+          []
+        ],
+        [
+          "na",
+          {
+            "type": "KANA",
+            "text": "な",
+            "truetext": "な",
+            "kana": "な",
+            "seq": 2029110,
+            "conjugations": [],
+            "score": 6,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 2,
+            "end": 3,
+            "counter": [],
+            "skipped": 7,
+            "gloss": {
+              "reading": "な",
+              "text": "な",
+              "kana": "な",
+              "score": 6,
+              "seq": 2029110,
+              "gloss": [
+                {
+                  "pos": "[prt]",
+                  "gloss": "don't",
+                  "info": "prohibitive; used with dictionary form verb"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "do",
+                  "info": "imperative (from なさい); used with -masu stem of verb"
+                },
+                {
+                  "pos": "[int]",
+                  "gloss": "hey; listen; look; say",
+                  "info": "used to get someone's attention or press one's point"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "now, ...; well, ...; I tell you!; you know",
+                  "info": "when seeking confirmation, for emphasis, etc.; used at sentence end"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "wow; ooh",
+                  "info": "used to express admiration, emotionality, etc.; used at sentence end"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+                  "info": "used as a request for confirmation or agreement; used at sentence end"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates な-adjective"
+                }
+              ],
+              "conj": []
+            }
+          },
+          []
+        ],
+        [
+          "kokusaikankei",
+          {
+            "type": "KANJI",
+            "text": "国際関係",
+            "truetext": "国際関係",
+            "kana": "こくさいかんけい",
+            "seq": 1286430,
+            "conjugations": [],
+            "score": 715,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 3,
+            "end": 7,
+            "counter": [],
+            "skipped": 0,
+            "gloss": {
+              "reading": "国際関係 【こくさいかんけい】",
+              "text": "国際関係",
+              "kana": "こくさいかんけい",
+              "score": 715,
+              "seq": 1286430,
+              "gloss": [
+                {
+                  "pos": "[n]",
+                  "gloss": "international relations"
+                }
+              ],
+              "conj": []
+            },
+            "match": [
+              {
+                "kanji": "国",
+                "reading": "こく",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 196,
+                "total": 207,
+                "perc": "94.69%",
+                "grade": 2
+              },
+              {
+                "kanji": "際",
+                "reading": "さい",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 21,
+                "total": 33,
+                "perc": "63.64%",
+                "grade": 5
+              },
+              {
+                "kanji": "関",
+                "reading": "かん",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 45,
+                "total": 51,
+                "perc": "88.24%",
+                "grade": 4
+              },
+              {
+                "kanji": "係",
+                "reading": "けい",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 12,
+                "total": 17,
+                "perc": "70.59%",
+                "grade": 3
+              }
+            ]
+          },
+          []
+        ],
+        [
+          "no",
+          {
+            "type": "KANA",
+            "text": "の",
+            "truetext": "の",
+            "kana": "の",
+            "seq": 1469800,
+            "conjugations": [],
+            "score": 11,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 7,
+            "end": 8,
+            "counter": [],
+            "skipped": 4,
+            "gloss": {
+              "reading": "の",
+              "text": "の",
+              "kana": "の",
+              "score": 11,
+              "seq": 1469800,
+              "gloss": [
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates possessive",
+                  "info": "occasionally ん, orig. written 乃 or 之"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "nominalizes verbs and adjectives"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "substitutes for \"ga\" in subordinate phrases"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "(at sentence-end, falling tone) indicates a confident conclusion",
+                  "info": "often ん"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "(at sentence-end) indicates emotional emphasis"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "(at sentence-end, rising tone) indicates question"
+                }
+              ],
+              "conj": []
+            }
+          },
+          []
+        ],
+        [
+          "hensen",
+          {
+            "type": "KANJI",
+            "text": "変遷",
+            "truetext": "変遷",
+            "kana": "へんせん",
+            "seq": 1511260,
+            "conjugations": [],
+            "score": 208,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 8,
+            "end": 10,
+            "counter": [],
+            "skipped": 0,
+            "gloss": {
+              "reading": "変遷 【へんせん】",
+              "text": "変遷",
+              "kana": "へんせん",
+              "score": 208,
+              "seq": 1511260,
+              "gloss": [
+                {
+                  "pos": "[vi,vs,n]",
+                  "gloss": "change; transition; vicissitudes"
+                }
+              ],
+              "conj": []
+            },
+            "match": [
+              {
+                "kanji": "変",
+                "reading": "へん",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 51,
+                "total": 69,
+                "perc": "73.91%",
+                "grade": 4
+              },
+              {
+                "kanji": "遷",
+                "reading": "せん",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 4,
+                "total": 4,
+                "perc": "100.00%",
+                "grade": 8
+              }
+            ]
+          },
+          []
+        ],
+        [
+          "wo",
+          {
+            "type": "KANA",
+            "text": "を",
+            "truetext": "を",
+            "kana": "を",
+            "seq": 2029010,
+            "conjugations": [],
+            "score": 11,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 10,
+            "end": 11,
+            "counter": [],
+            "skipped": 0,
+            "gloss": {
+              "reading": "を",
+              "text": "を",
+              "kana": "を",
+              "score": 11,
+              "seq": 2029010,
+              "gloss": [
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates direct object of action"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates subject of causative expression"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates an area traversed"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates time (period) over which action takes place"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates point of departure or separation of action"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates object of desire, like, hate, etc."
+                }
+              ],
+              "conj": []
+            }
+          },
+          []
+        ],
+        [
+          "fukaku",
+          {
+            "type": "KANJI",
+            "text": "深く",
+            "truetext": "深く",
+            "kana": "ふかく",
+            "seq": 2843268,
+            "conjugations": [],
+            "score": 128,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 11,
+            "end": 13,
+            "counter": [],
+            "skipped": 0,
+            "gloss": {
+              "reading": "深く 【ふかく】",
+              "text": "深く",
+              "kana": "ふかく",
+              "score": 128,
+              "seq": 2843268,
+              "gloss": [
+                {
+                  "pos": "[adv]",
+                  "gloss": "deeply; intimately; heartily; sincerely; profoundly"
+                }
+              ],
+              "conj": [
+                {
+                  "prop": [
+                    {
+                      "pos": "adj-i",
+                      "type": "Adverbial"
+                    }
+                  ],
+                  "reading": "深い 【ふかい】",
+                  "gloss": [
+                    {
+                      "pos": "[adj-i]",
+                      "gloss": "deep"
+                    },
+                    {
+                      "pos": "[adj-i]",
+                      "gloss": "profound"
+                    },
+                    {
+                      "pos": "[adj-i]",
+                      "gloss": "dense; thick"
+                    },
+                    {
+                      "pos": "[adj-i]",
+                      "gloss": "close (relationship)"
+                    },
+                    {
+                      "pos": "[adj-i]",
+                      "gloss": "intense; strong"
+                    },
+                    {
+                      "pos": "[adj-i]",
+                      "gloss": "late"
+                    }
+                  ],
+                  "readok": true
+                }
+              ]
+            },
+            "match": [
+              {
+                "kanji": "深",
+                "reading": "ふか",
+                "type": "ja_kun",
+                "link": true,
+                "stats": true,
+                "sample": 9,
+                "total": 30,
+                "perc": "30.00%",
+                "grade": 3
+              },
+              {
+                "text": "く"
+              }
+            ]
+          },
+          []
+        ],
+        [
+          "rikai shiyō",
+          {
+            "type": "KANJI",
+            "text": "理解しよう",
+            "truetext": [],
+            "kana": "りかい しよう",
+            "seq": [
+              1549910,
+              10149617
+            ],
+            "conjugations": [],
+            "score": 1056,
+            "components": [
+              {
+                "type": "KANJI",
+                "text": "理解",
+                "truetext": "理解",
+                "kana": "りかい",
+                "seq": 1549910,
+                "conjugations": [],
+                "score": 0,
+                "components": [],
+                "alternative": [],
+                "primary": true,
+                "start": [],
+                "end": [],
+                "counter": [],
+                "skipped": 0
+              },
+              {
+                "type": "KANA",
+                "text": "しよう",
+                "truetext": "しよう",
+                "kana": "しよう",
+                "seq": 10149617,
+                "conjugations": [
+                  150539
+                ],
+                "score": 0,
+                "components": [],
+                "alternative": [],
+                "primary": [],
+                "start": [],
+                "end": [],
+                "counter": [],
+                "skipped": 0
+              }
+            ],
+            "alternative": [],
+            "primary": true,
+            "start": 13,
+            "end": 18,
+            "counter": [],
+            "skipped": 0,
+            "gloss": {
+              "reading": "理解しよう 【りかい しよう】",
+              "text": "理解しよう",
+              "kana": "りかい しよう",
+              "score": 1056,
+              "compound": [
+                "理解",
+                "しよう"
+              ],
+              "components": [
+                {
+                  "reading": "理解 【りかい】",
+                  "text": "理解",
+                  "kana": "りかい",
+                  "score": 0,
+                  "seq": 1549910,
+                  "gloss": [
+                    {
+                      "pos": "[n,vs,vt]",
+                      "gloss": "understanding; comprehension; appreciation"
+                    },
+                    {
+                      "pos": "[vt,vs,n]",
+                      "gloss": "sympathy"
+                    }
+                  ],
+                  "conj": []
+                },
+                {
+                  "reading": "しよう",
+                  "text": "しよう",
+                  "kana": "しよう",
+                  "score": 0,
+                  "seq": 10149617,
+                  "suffix": "makes a verb from a noun",
+                  "conj": [
+                    {
+                      "prop": [
+                        {
+                          "pos": "vs-i",
+                          "type": "Volitional"
+                        }
+                      ],
+                      "reading": "為る 【する】",
+                      "gloss": [
+                        {
+                          "pos": "[vs-i]",
+                          "gloss": "to do; to carry out; to perform"
+                        },
+                        {
+                          "pos": "[vs-i]",
+                          "gloss": "to cause to become; to make (into); to turn (into)"
+                        },
+                        {
+                          "pos": "[vs-i]",
+                          "gloss": "to serve as; to act as; to work as"
+                        },
+                        {
+                          "pos": "[vs-i]",
+                          "gloss": "to wear (clothes, a facial expression, etc.)"
+                        },
+                        {
+                          "pos": "[vs-i]",
+                          "gloss": "to judge as being; to view as being; to think of as; to treat as; to use as",
+                          "info": "as 〜にする,〜とする"
+                        },
+                        {
+                          "pos": "[vs-i]",
+                          "gloss": "to decide on; to choose",
+                          "info": "as 〜にする"
+                        },
+                        {
+                          "pos": "[vs-i,vi]",
+                          "gloss": "to be sensed (of a smell, noise, etc.)",
+                          "info": "as 〜がする"
+                        },
+                        {
+                          "pos": "[vs-i,vi]",
+                          "gloss": "to be (in a state, condition, etc.)"
+                        },
+                        {
+                          "pos": "[vs-i,vi]",
+                          "gloss": "to be worth; to cost"
+                        },
+                        {
+                          "pos": "[vs-i,vi]",
+                          "gloss": "to pass (of time); to elapse"
+                        },
+                        {
+                          "pos": "[vs-i,vt]",
+                          "gloss": "to place, or raise, person A to a post or status B",
+                          "info": "as AをBにする"
+                        },
+                        {
+                          "pos": "[vs-i,vt]",
+                          "gloss": "to transform A to B; to make A into B; to exchange A for B",
+                          "info": "as AをBにする"
+                        },
+                        {
+                          "pos": "[vs-i,vt]",
+                          "gloss": "to make use of A for B; to view A as B; to handle A as if it were B",
+                          "info": "as AをBにする"
+                        },
+                        {
+                          "pos": "[vs-i,vt]",
+                          "gloss": "to feel A about B",
+                          "info": "as AをBにする"
+                        },
+                        {
+                          "pos": "[suf,vs-i]",
+                          "gloss": "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")"
+                        },
+                        {
+                          "pos": "[aux-v,vs-i]",
+                          "gloss": "creates a humble verb (after a noun prefixed with \"o\" or \"go\")"
+                        },
+                        {
+                          "pos": "[aux-v,vs-i]",
+                          "gloss": "to be just about to; to be just starting to; to try to; to attempt to",
+                          "info": "as 〜うとする,〜ようとする"
+                        }
+                      ],
+                      "readok": true
+                    }
+                  ]
+                }
+              ]
+            },
+            "match": [
+              {
+                "kanji": "理",
+                "reading": "り",
+                "type": "ja_on",
+                "link": true,
+                "stats": true,
+                "sample": 116,
+                "total": 116,
+                "perc": "100.00%",
+                "grade": 2
+              },
+              {
+                "kanji": "解",
+                "reading": "かい ",
+                "type": "irr",
+                "link": true
+              },
+              {
+                "text": "しよう"
+              }
+            ]
+          },
+          []
+        ],
+        [
+          "to",
+          {
+            "type": "KANA",
+            "text": "と",
+            "truetext": "と",
+            "kana": "と",
+            "seq": 1008490,
+            "conjugations": [],
+            "score": 11,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 18,
+            "end": 19,
+            "counter": [],
+            "skipped": 10,
+            "gloss": {
+              "reading": "と",
+              "text": "と",
+              "kana": "と",
+              "score": 11,
+              "seq": 1008490,
+              "gloss": [
+                {
+                  "pos": "[prt,conj]",
+                  "gloss": "if; when"
+                },
+                {
+                  "pos": "[prt,conj]",
+                  "gloss": "and"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "with"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "used for quoting (thoughts, speech, etc.)"
+                },
+                {
+                  "pos": "[prt]",
+                  "gloss": "indicates a question",
+                  "info": "at sentence end"
+                }
+              ],
+              "conj": []
+            }
+          },
+          []
+        ],
+        [
+          "kokoromimashita",
+          {
+            "type": "KANJI",
+            "text": "試みました",
+            "truetext": "試みました",
+            "kana": "こころみました",
+            "seq": 10377490,
+            "conjugations": [],
+            "score": 1380,
+            "components": [],
+            "alternative": [],
+            "primary": true,
+            "start": 19,
+            "end": 24,
+            "counter": [],
+            "skipped": 1,
+            "gloss": {
+              "reading": "試みました 【こころみました】",
+              "text": "試みました",
+              "kana": "こころみました",
+              "score": 1380,
+              "seq": 10377490,
+              "conj": [
+                {
+                  "prop": [
+                    {
+                      "pos": "v1",
+                      "type": "Past (~ta)",
+                      "fml": true
+                    }
+                  ],
+                  "reading": "試みる 【こころみる】",
+                  "gloss": [
+                    {
+                      "pos": "[vt,v1]",
+                      "gloss": "to try; to attempt; to have a go (at)"
+                    }
+                  ],
+                  "readok": true
+                }
+              ]
+            },
+            "match": [
+              {
+                "kanji": "試",
+                "reading": "こころ",
+                "type": "ja_kun",
+                "link": true,
+                "stats": true,
+                "sample": 2,
+                "total": 41,
+                "perc": "4.88%",
+                "grade": 4
+              },
+              {
+                "text": "みました"
+              }
+            ]
+          },
+          []
+        ]
+      ],
+      3877
+    ]
+  ],
+  ". "
 ]
